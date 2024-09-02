@@ -1,0 +1,72 @@
+                Overview of IT Industry
+
+1. What is software? What is software engineering?
+Software is a set of instructions that tell a computer what to do. Software engineering is the process of designing, developing, testing, and maintaining software to ensure it's  reliabe and efficient.
+
+ 2. Explain types of software le and efficient.
+System Software: Manages hardware and provides basic functionalities (e.g., operating systems).
+Application Software: Helps users perform tasks (e.g., word processors, web browsers).
+Programming Software: Tools to create software (e.g., compilers, debuggers).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. What is SDLC? Explain each phase of SDLC.
+SDLC (Software Development Life Cycle) is a process used to develop software It has  6  phases:
+
+Requirements Gathering: Gathering and documenting what the software should do.
+Design: Creating a blueprint of how the software will be structured and function.
+Implementation: Writing the code and building the software.
+Testing: Checking if the software works correctly.
+Deployment: Releasing the software for users.
+Maintenance: Updating and fixing issues in the software after release.
+
+
+ 
+
+
+
+
+        
+4. What is DFD? Create a DFD diagram on Flipkart
+
+DFD (Data Flow Diagram) shows how data moves through a system.
+
+                       
+                    DFD diagram on Flipkart
+
+ 
+                                                                                                                                                                                            
+
+
+
+
+
+
+5. What is Flow chart? Create a flowchart to make addition of two numbers
+Flowchart: A flowchart is a visual representation of a process or algorithm using symbols connected by arrows showing the sequence of steps. Here’s a simple flowchart for adding two numbers
+
+  
+6. What is Use case Diagram? Create a use-case on bill payment on paytm.
+Use Case Diagram: A use case diagram illustrates how users interact with a system and its functions.
+
+ 
+
+
+                         Dave Dhanvin
